@@ -1,0 +1,22 @@
+id: AF95DFD6D
+title: Prayer to Jamyang Khyentse Wangpo
+type: translation
+pechas:
+- I9E3A80AD
+- IB8894499
+- IF48D4B4C
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:01:28.646755
+  last_modified_at: 2023-01-04 12:01:28.646769
+  collections:
+  - Jamgön Kongtrul Lodrö Thaye Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9E3A80AD/7C7A: BA40
+  IB8894499/8723: BA40
+  IF48D4B4C/FB8A: BA40
